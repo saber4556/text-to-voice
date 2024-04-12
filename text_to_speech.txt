@@ -8,6 +8,8 @@ txt_to_speech\Scripts\activate.bat
 
 pip install -r requirmend.txt
 
+python txt-to-voice.py
+
 
 
 deactivate
