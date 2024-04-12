@@ -1,0 +1,13 @@
+
+python -m venv txt_to_speech 
+
+
+txt_to_speech\Scripts\activate.bat
+
+
+
+pip install -r requirmend.txt
+
+
+
+deactivate
